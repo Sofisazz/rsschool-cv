@@ -8,3 +8,13 @@
 
 ## About Me
 I approach new challenges and opportunities with great interest. I am always ready to learn and develop.
+
+## Skills
+* HTML
+* CSS
+* Tailwind CSS
+* JavaScript
+* MySQL
+* C++
+* Figma
+* UX/UI
