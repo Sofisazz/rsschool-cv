@@ -5,6 +5,7 @@
 * Email: gurskayaS@gmail.com
 * Phone: +375 (33) 857-86-41
 * GitHub: [Sofisazz](https://github.com/Sofisazz)
+* Discord: Sof (@Sofisazz)
 
 ## About Me
 I approach new challenges and opportunities with great interest. I am always ready to learn and develop.
