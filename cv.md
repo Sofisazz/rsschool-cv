@@ -19,3 +19,20 @@ I approach new challenges and opportunities with great interest. I am always rea
 * C++
 * Figma
 * UX/UI
+
+## Code Example
+```
+function isIsogram(str){
+  str = str.toLowerCase();
+
+  for(let i=0; i<str.length; i++){
+    for(let j=i+1; j<str.length; j++){
+      
+     let letter=str[i];
+      if(str[i]==str[j]) return false;
+    }
+  }
+  
+  return true;
+}
+```
