@@ -47,3 +47,11 @@ function isIsogram(str){
         * Lear CSS
         * Learn HTML
     * [Intensiv FRONTEND: START](https://itlogia.ru/certificates/intensive/13207-75307)
+
+## Languages
+* Russian
+* English
+    ### English
+    * "Magic English" (Stepik)
+    * "Easy English" (Skyeng)
+
