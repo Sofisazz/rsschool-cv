@@ -36,3 +36,14 @@ function isIsogram(str){
   return true;
 }
 ```
+
+## Education
+* Belarusian State University of Informatics and Radioelectronics
+    *  Automated Data Processing Systems
+
+    ### Courses
+    * Codecademy:
+        * Learn JavaScript
+        * Lear CSS
+        * Learn HTML
+    * [Intensiv FRONTEND: START](https://itlogia.ru/certificates/intensive/13207-75307)
