@@ -1,0 +1,36 @@
+header img {
+  height: 300px;
+}
+hr {
+  width: 100%;
+}
+body {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  padding-left: 130px;
+}
+
+header {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  gap: 100px;
+}
+
+li a {
+  text-decoration: none;
+}
+footer {
+  gap: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+footer img {
+  height: 50px;
+}
